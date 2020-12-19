@@ -1,10 +1,4 @@
 ### Hi! I'm Arleigh 👋
-
-<!--
-**arleigh418/arleigh418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 SCU BIG DATA
 - 🌱 SCU NLP Lab
 - 👯 NOMURA Assest Management TW - IT Dept. Intern (2019.3-2020.8)
