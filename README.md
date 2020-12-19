@@ -1,7 +1,7 @@
 ### Hi! I'm Arleigh 👋
 
 - 🌱 SCU BIG DATA
-- 🌱 SCU NLP Lab
+- 🌱 [SCU NLP NLP Laboratory](https://nlp.bigdata.scu.edu.tw/)
 - 👯 NOMURA Assest Management TW - IT Dept. Intern (2019.3-2020.8)
 - 👯 i-buzz Research Center - Intern (2018.7-2019.2)
 - ✨ Chunghwa Post Co 1st Big Data Contest - 2nd In The Competition
