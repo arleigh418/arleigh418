@@ -1,5 +1,5 @@
 ### Hi! I'm Arleigh 👋
-- 👯 Program Trading Designer in startup(investment business) (2020.1-now)
+- 👯 Program Trading Designer in startup(investment business) (2021.1-now)
 - 👯 NOMURA Asset Management TW - IT Dept. Intern (2019.3-2020.8)
 - 👯 i-buzz Research Center - Intern (2018.7-2019.2)
 - 🌱 SCU BIG DATA
