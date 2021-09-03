@@ -2,6 +2,7 @@
 - 👯 Program Trading Designer in startup(investment business) (2021.1-now)
 - 👯 NOMURA Asset Management TW - IT Dept. Intern (2019.3-2020.8)
 - 👯 i-buzz Research Center - Intern (2018.7-2019.2)
+- 📚 Author of [Python金融市場賺大錢聖經：寫出你的專屬指標](https://www.books.com.tw/products/0010901963?loc=M_0039_001)
 - 🌱 SCU BIG DATA
 - 🌱 [SCU NLP Laboratory](https://nlp.bigdata.scu.edu.tw/)
 - ✨ Chunghwa Post Co 1st Big Data Contest - 2nd In The Competition
