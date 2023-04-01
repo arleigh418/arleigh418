@@ -1,7 +1,8 @@
 ### Hi! I'm Arleigh 👋
 - 📚 MasterTalk online course: [Python全方位期貨課程 - 從基礎、爬蟲、回測、Line提醒到AI應用](https://mastertalks.tw/products/python-futures?ref=ArleighChang)
 - 📚 Author of [Python金融市場賺大錢聖經：寫出你的專屬指標](https://www.books.com.tw/products/0010901963?loc=M_0039_001)
-- 👯 NOMURA Asset Management TW - IT Dept. (2022.1-now)
+- 👯 CathayHoldings- Investment Research Team at DDT. (2022.11-now)
+- 👯 NOMURA Asset Management TW - IT Dept. (2021.12-2022.11)
 - 👯 Program Trading Designer in startup(investment business) (2021.1-2021.12)
 - 👯 NOMURA Asset Management TW - IT Dept. Intern (2019.3-2020.8)
 - 👯 i-buzz Research Center - Intern (2018.7-2019.2)
