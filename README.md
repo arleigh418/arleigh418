@@ -5,9 +5,9 @@
 - 👯 NOMURA Asset Management TW - IT Dept. (2021.12-2022.11)
 - 👯 Program Trading Designer in startup(investment business) (2021.1-2021.12)
 - 👯 NOMURA Asset Management TW - IT Dept. Intern (2019.3-2020.8)
-- 👯 i-buzz Research Center - Intern (2018.7-2019.2)
 - 🌱 SCU BIG DATA
 - 🌱 [SCU NLP Laboratory](https://nlp.bigdata.scu.edu.tw/)
+- ✨ WorldQuant Challenge Gold Certificate
 - ✨ Chunghwa Post Co 1st Big Data Contest - 2nd In The Competition
 - ✨ JIH SUN Hackathon 2018 - Prediction For Stock Market - One of 6 Finalists 
 - 💬 [LinkedIn](https://www.linkedin.com/in/arleighchang/)
