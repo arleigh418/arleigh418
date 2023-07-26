@@ -9,6 +9,7 @@
 - 📚 [IOH Sharing](https://ioh.tw/talks/%E6%9D%B1%E5%90%B3%E5%B7%A8%E8%B3%87-%E5%BC%B5%E5%B3%AE%E7%91%8B-tw-study-scu-bde)
 
 ## Competition
+- ✨ WorldQuant International Quant Championship 2023 Taiwan Finals
 - ✨ WorldQuant International Quant Championship 2023 Stage1: World ranking : 38 / 29113 | Taiwan ranking : 3 / 877
 - ✨ WorldQuant Challenge Gold Certificate
 - ✨ Chunghwa Post Co 1st Big Data Contest - 2nd In The Competition
