@@ -4,6 +4,7 @@
 - 📫 arleigh668@gmail.com
 
 ## Publish
+- 📚 Author of [問 ChatGPT 也不會的 Python 量化交易聖經 - 從分析到真實交易一本全會](https://www.tenlong.com.tw/products/9786267569566)
 - 📚 MasterTalk online course: [Python全方位期貨課程 - 從基礎、爬蟲、回測、Line提醒到AI應用](https://mastertalks.tw/products/python-futures?ref=ArleighChang)
 - 📚 Author of [Python金融市場賺大錢聖經：寫出你的專屬指標](https://www.books.com.tw/products/0010901963?loc=M_0039_001)
 - 📚 [IOH Sharing](https://ioh.tw/talks/%E6%9D%B1%E5%90%B3%E5%B7%A8%E8%B3%87-%E5%BC%B5%E5%B3%AE%E7%91%8B-tw-study-scu-bde)
