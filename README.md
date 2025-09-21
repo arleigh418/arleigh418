@@ -17,7 +17,8 @@
 - ✨ JIH SUN Hackathon 2018 - Prediction For Stock Market - One of 6 Finalists 
 
 ## Work Experience
-- 👯 CathayHoldings- Data Science and Technology at DDT. (2022.11-now)
+- 👯 UC Capital - Trader (2025.07-now)
+- 👯 CathayHoldings- Data Science and Technology at DDT. (2022.11-2025.06)
 - 👯 NOMURA Asset Management TW - IT Dept. (2021.12-2022.11)
 - 👯 Program Trading Designer in startup(investment business) (2021.1-2021.12)
 - 👯 NOMURA Asset Management TW - IT Dept. Intern (2019.3-2020.8)
